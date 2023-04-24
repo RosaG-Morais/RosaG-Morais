@@ -1,4 +1,4 @@
-## Eae, sou Guilherme Rosa!
+## Sou Guilherme Rosa, tenho 19 anos e atualmente estou cursando Engenheira da Computação e aqui você pode encontrar alguns dos meus projetos. Tenho a ambição de ser um Dev e essa é minha jornada.
 
  <div>
    <a href="https://github.com/RosaG-Morais">
